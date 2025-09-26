@@ -17,8 +17,19 @@ Encourage smart agriculture using AI tools.
 - User-friendly and responsive web design.
 
 
+
+
   <img width="1216" height="561" alt="image" src="https://github.com/user-attachments/assets/3f366be1-103b-4aa3-bff8-c8d6aaf5d78b" />
 
-### Fig 4.2 Website Interface (Landing Page)
+                                      ### Fig 4.2 Website Interface (Landing Page)
 This is the landing page of the website, which serves as the entry point for users.  
 It provides a simple and user-friendly interface where users can navigate to different sections of the system, such as uploading plant images for disease detection. 
+
+
+
+<img width="1212" height="637" alt="image" src="https://github.com/user-attachments/assets/76dcf7a9-92c5-4553-abee-b289c6a8352a" />
+
+
+                                      ### Fig 4.3 Website Interface (Image Uploading)
+This interface allows users to upload images of plant leaves affected by disease.  
+The uploaded image is processed by the system for further analysis and prediction.  

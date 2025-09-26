@@ -4,6 +4,9 @@ This project uses Machine Learning (ML) techniques to predict plant diseases fro
 
 Using a convolutional neural network (CNN), the model can classify plant leaves as healthy or diseased and further identify the specific disease category.
 
+This project is a **Plant Disease Detection System** that leverages **Convolutional Neural Networks (CNNs)** to identify plant diseases from leaf images.  
+It provides a simple **web-based interface** where users can upload plant leaf images and receive predictions along with possible remedies.  
+
 🎯 Objectives
 Detect plant diseases from leaf images.
 Classify multiple plant species and their common diseases.

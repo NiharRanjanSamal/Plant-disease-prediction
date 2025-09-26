@@ -33,3 +33,12 @@ It provides a simple and user-friendly interface where users can navigate to dif
                                       ### Fig 4.3 Website Interface (Image Uploading)
 This interface allows users to upload images of plant leaves affected by disease.  
 The uploaded image is processed by the system for further analysis and prediction.  
+
+
+
+<img width="1216" height="658" alt="image" src="https://github.com/user-attachments/assets/4a2eb559-bde6-4bf3-863a-15fbbe47024e" />
+
+
+                                    ### Fig 4.4 Website Interface (Analysis/Prediction)
+This interface displays the prediction results after the uploaded image is analyzed.  
+The system shows the detected plant disease along with possible remedies or recommendations.

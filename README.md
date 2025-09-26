@@ -39,3 +39,6 @@ This interface allows users to upload images of plant leaves affected by disease
 
                                     ### Fig 4.4 Website Interface (Analysis/Prediction)
 This interface displays the prediction results after the uploaded image is analyzed. The system shows the detected plant disease along with possible remedies or recommendations.
+
+
+***Dataset used*** - https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
